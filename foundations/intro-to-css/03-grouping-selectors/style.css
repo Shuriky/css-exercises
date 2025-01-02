@@ -1,0 +1,19 @@
+.butter {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman' ,sans-serif;
+}
+
+.butter.nigga {
+    background-color: black;
+    color: white;
+}
+
+.butter.chingchong {
+    background-color: yellow;
+}
+
+/*
+.butter:hover {
+    font-size: 100px;
+}
+*/
